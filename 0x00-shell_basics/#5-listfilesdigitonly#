@@ -1,12 +1,5 @@
 #!/bin/bash
-ls -l
-
-
-
-
-
-
-
+ls -na
 
 
 
