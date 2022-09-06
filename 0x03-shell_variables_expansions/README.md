@@ -1,1 +1,1 @@
-echo action to path
+lead action to path
