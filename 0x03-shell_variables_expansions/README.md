@@ -1,1 +1,1 @@
-create a script thet prints enviroment variables
+Create local variables
