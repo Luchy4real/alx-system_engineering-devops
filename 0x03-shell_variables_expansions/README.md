@@ -1,1 +1,1 @@
-create a script that counts the number of directory
+create a script thet prints enviroment variables
