@@ -1,1 +1,1 @@
-lead action to path
+create a script that counts the number of directory
