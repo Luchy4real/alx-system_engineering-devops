@@ -1,1 +1,1 @@
-create a scrip that takes a list of words
+Create a script that takes a list of words as input and prints only words that appear exactly once
