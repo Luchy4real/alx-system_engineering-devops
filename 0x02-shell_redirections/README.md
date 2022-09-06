@@ -1,1 +1,1 @@
-a script that reamove all c
+reverse all input
