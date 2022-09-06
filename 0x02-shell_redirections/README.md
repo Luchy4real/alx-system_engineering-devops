@@ -1,1 +1,1 @@
-cut all entries
+display all the lines in the file
