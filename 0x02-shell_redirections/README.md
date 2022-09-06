@@ -1,1 +1,1 @@
-reverse all input
+cut all entries
